@@ -40,5 +40,5 @@ print(concatenated_str)
 
 
 # 5
-my_name = "Sul"
-print(my_name)
+my_name = ["Sul", "Sam", "Adam"]
+print(my_name[0])
