@@ -19,7 +19,7 @@
 # LifeSpan
 # Can fly Yes/No
 # Can Swim Yes/No
-
+# solutions: 
 class Person:
   def details(self,height,weight,hairColor,DOB,shoeSize,gloveSize,skinColor):
     self.height = height
